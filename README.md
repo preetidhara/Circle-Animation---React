@@ -1,8 +1,13 @@
-# React + Vite
+# Interactive Dot Animation with React, Tailwind CSS, and Framer Motion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Tech Used</h2>
 
-Currently, two official plugins are available:
+<b>Interactive Animation:</b> Engaging dot animation that dynamically responds to user interactions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<b>React.js:</b> Harness the power of React for building reusable components and managing state effortlessly.
+
+<b>Tailwind CSS:</b> Crafted with responsive and utility-first styling for a modern and clean design.
+
+<b>Framer Motion:</b> Easily incorporate smooth transitions and dynamic animations.
+
+
